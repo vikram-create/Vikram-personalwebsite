@@ -1,0 +1,20 @@
+html {
+  height: 100%;
+  width: 100%;
+  img{
+    height: 400px;
+    width: 400px;
+    text-align: center;
+    border-radius: 2cap;
+    border-color: mediumpurple;
+    border: 2ch;
+    border-width: 2cap;
+    
+  }
+  body{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blanchedalmond;
+    color: mediumpurple;
+  }
+}
